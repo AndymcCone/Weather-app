@@ -41,7 +41,7 @@ def on_click(event):
 root = Tk()
 root.maxsize(950, 600)
 root.minsize(450, 250)
-root.title("HAMK ohjelmointiharjoitus, Sääsovellus")
+root.title("Sääsovellus")
 root.iconbitmap("sunico2.ico")
 
 canvas = Canvas(root, height=400, width=600)
